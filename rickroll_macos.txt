@@ -9,7 +9,7 @@ STRING osascript -e 'set volume 7'
 DELAY 1000
 ENTER
 DELAY 1000
-STRING open -a safari https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING open -a safari https://shattereddisk.github.io/rickroll/rickroll.mp4
 DELAY 1000
 ENTER
 DELAY 5000
